@@ -1,0 +1,15 @@
+{
+  "name": "github-core-clone-01",
+  "version": "1.0.0",
+  "description": "Standalone GitHub-compatible git forge: git smart HTTP, REST v3, GraphQL v4 and MCP from one Node 22 process, standard library only.",
+  "type": "module",
+  "private": true,
+  "main": "main.ts",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "MIT"
+}
